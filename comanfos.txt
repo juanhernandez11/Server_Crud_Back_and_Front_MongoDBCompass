@@ -1,0 +1,5 @@
+cd Server
+npm init
+npm i express mongoose cors
+extension red api client
+npm run dev
